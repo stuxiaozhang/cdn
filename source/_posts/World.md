@@ -3,6 +3,7 @@ layout: pages
 title: Hello World！
 date: 2020-09-24 20:23:12
 tags: 小张日记
+top: True
 ---
 
 耶嘿！小张的宇宙空间站正式开通啦！
@@ -13,5 +14,7 @@ tags: 小张日记
 
 小张同学加油！
 
-![](/img/codedog.jpg)
+![](/img/World/codedog.jpg)
+
+
 
